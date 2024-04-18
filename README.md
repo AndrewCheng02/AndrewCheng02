@@ -1,6 +1,6 @@
-### Hi there my name is Andrew Cheng! 👋🏽
+## Hi there my name is Andrew Cheng! 👋🏽
 
-## [Check out my projects!](https://andrewcheng02.github.io/Portfolio/) 
+### [Check out my projects!](https://andrewcheng02.github.io/Portfolio/) 
 
 <!--
 **AndrewCheng02/AndrewCheng02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
