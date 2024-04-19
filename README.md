@@ -1,4 +1,4 @@
-## Hi there my name is Andrew Cheng! 👋🏽
+## Hi my name is Andrew Cheng! 👋🏽
 
 ### [Check out my projects!](https://andrewcheng02.github.io/Portfolio/) 
 
